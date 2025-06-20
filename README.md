@@ -29,7 +29,7 @@ Antes de executar os exercícios, certifique-se de ter instalado em sua máquina
 ### 1. Clonar o repositório
 Com o Git já instalado na sua maquina, no VSCode utilize o atalho `ctrl + shift + g` e clique em clonar repositório, após isso basta colar o endereço abaixo:
 ```bash
-https://github.com/OzzOsborn/Lista_2.git
+https://github.com/SilvHugo/Lista_2
 ```
 
 ### 2. Instalar dependências
